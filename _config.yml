@@ -24,8 +24,9 @@ author:
       url: "mailto:your.startwithwhy09@gmail.com"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
