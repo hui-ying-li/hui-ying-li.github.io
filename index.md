@@ -1,0 +1,28 @@
+---
+layout: home
+title: "Huiying Li – Engineering Leadership & Innovation"
+author_profile: true
+---
+
+Hi, I’m **Huiying**, a technology leader passionate about turning **data, AI, and modern cloud platforms** into engines of growth and innovation.
+
+With over 15 years of experience spanning **finance, SaaS, and healthcare**, I’ve led global engineering organizations through modernization, transformation, and product innovation. My work bridges **business strategy and technology execution** — helping companies deliver scalable, secure, and high-performing platforms that create real business impact.
+
+---
+
+### 🧭 Areas of Expertise
+- Platform Modernization & Cloud Transformation (AWS, GCP, Azure)
+- AI-Driven Product Innovation
+- DevSecOps & Continuous Delivery
+- Global Team Leadership & Organizational Scaling
+- Data Platforms & Real-Time Systems
+
+---
+
+### 💡 Leadership Philosophy
+Empower teams, simplify technology, and deliver measurable outcomes.  
+I believe in **curiosity, clarity, and execution** — the foundations of engineering excellence.
+
+---
+
+👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/) or [email me](mailto:your.email@example.com)
