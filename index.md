@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Huiying Li – Engineering Leadership & Innovation"
+title: "Engineering Leadership & Innovation"
 author_profile: true
 ---
 
